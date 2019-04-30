@@ -12,29 +12,19 @@ SIGMOD Reproducibility has three goals:
 The goals are align with the idea of , the goal is to assist in building a culture where sharing **results**, **code**, and **scripts** of database research is the norm rather than an exception. The challenge is to do this efficiently, which means building technical expertise on how to better research via creating repeatable and shareable research. The [SIGMOD Reproducibility committee](http://db-reproducibility.seas.harvard.edu/#Committee) is here to help you with this.
 
 ---
-<br/><br/>
+<br/>
 
 ### Why should I be part of this?
 
 You will be making it easy for other researchers to compare with your work, to adopt and extend your research. This instantly means more recognition for your work and higher impact.
 
-Taking part in the SIGMOD Reproducibility process enables your paper to take the **ACM Results Replicated** label. This is embedded in the PDF of your paper in the ACM digital library.
-
-There is an option to also host your data, scripts and code in the ACM digital library as well to make them available to a broad audience.
-
-##### <span style="color:#4952D8">ACM Results Replicated label</span>
-
 *The experimental results of the paper were replicated by the committee and where found to support the central results reported in the paper*
-
-##### <span style="color:#5EB773">ACM Results Replicated label</span>
 
 *The experiments (data, code, scripts) are made available to the community*
 
-> Both the "ACM Results Replicated label" and the "ACM Artifacts Available label" are visible in the **ACM digital library**.
-
 Successful papers will be advertised at DBworld. In addition, the official SIGMOD Reproducibility website [maintains and advertises your papers](http://db-reproducibility.seas.harvard.edu/papers), serving as a centralized location where researchers will be able to find all the experimentation material of shareable SIGMOD papers. We will continue to enhance the functionality and material on this website to make it attractive and useful for the community, so stop by often!
 ---
-<br/><br/>
+<br/>
 
 ### How much overhead is it?
 At first, making research shareable seems like an extra overhead for authors. You just had your paper accepted in a major conference; why should you spend more time on it? The answer is to have more impact!
@@ -46,7 +36,7 @@ Maintaining easily reproducible experiments, simply makes working on hard proble
 *Ideally reproducibility should be close to zero effort*
 
 ---
-<br/><br/>
+<br/>
 
 ### Criteria and process
 
@@ -57,17 +47,17 @@ Each submitted experiment should contain: (1) A prototype system provided as a w
 The central results and claims of the paper should be supported by the submitted experiments, meaning we can recreate result data and graphs that demonstrate similar behavior with that shown in the paper. Typically when the results are about response times, the exact number will depend on the underlying hardware. We do not expect to get identical results with the paper unless it happens that we get access to identical hardware. Instead, what we expect to see is that the overall behavior matches the conclusions drown in the paper, e.g., that a given algorithm is significantly faster than another one, or that a given parameter affects negatively or positively the behavior of the system.
 
 ##### Reproducibility
-One important characteristic of strong research results is how flexible and robust they are in terms of the parameters and the tested environment. For example, testing a new algorithm for several input data distributions, workload characteristics and even hardware with diverse properties provides a complete picture of the properties of the algorithm. Of course, a single paper cannot always cover the whole space of possible scenarios. Typically, the opposite is true. For this reason, we expect authors to provide a short description as part of their submission about different experiments that one could do to test their work on top of what already exists in the paper. Ideally, the scripts provided should enable such functionality so that reviewers can test these case. This would allow reviewers to argue about how “reproducible” the results of the paper are under different conditions. Reproducibility is not mandatory for getting the ACM Replicability and Availability labels. It is though the ultimate goal of this effort.
+One important characteristic of strong research results is how flexible and robust they are in terms of the parameters and the tested environment. For example, testing a new algorithm for several input data distributions, workload characteristics and even hardware with diverse properties provides a complete picture of the properties of the algorithm. Of course, a single paper cannot always cover the whole space of possible scenarios. Typically, the opposite is true. For this reason, we expect authors to provide a short description as part of their submission about different experiments that one could do to test their work on top of what already exists in the paper. Ideally, the scripts provided should enable such functionality so that reviewers can test these case. This would allow reviewers to argue about how “reproducible” the results of the paper are under different conditions.
 
 We do not expect the authors to perform any additional experiments on top of the ones in the paper. Any additional experiments submitted will be considered and tested but they are not required. As long as the flexibility report shows that there is a *reasonable* set of existing experiments, then a paper meets the flexibility criteria. What reasonable means will be judged on a case by case basis based on the topic of each paper and in practice all accepted papers in top database conferences meet this criteria. You should see the flexibility report mainly as a way to describe the design space covered by the paper and the design space which is interesting to cover in the future for further analysis that may inspire others to work on open problems triggered by your work.
 
 ##### Process
-Each paper is reviewed by one database group. The process happens in communication with the reviewers so that authors and reviewers can iron out any technical issues that arise. The end result is a short report which describes the result of the process. For successful papers the report will be hosted in the ACM digital library along with the data and code.
+Each paper is reviewed by one database group. The process happens in communication with the reviewers so that authors and reviewers can iron out any technical issues that arise. The end result is a short report which describes the result of the process.
 
 The goal of the committee is to properly assess and promote database research! While we expect that authors try as best as possible to prepare a submission that works out of the box, we know that sometimes unexpected problems appear and that in certain cases experiments are very hard to fully automate. The committee will not dismiss submissions if something does not work out of the box; instead, they will contact the authors to get their input on how to properly evaluate their work.
 
 ---
-<br/><br/>
+<br/>
 ### Packaging Guidelines
 Every case is slightly different. Sometimes the reproducibility committee can simply rerun software (e.g., rerun some existing benchmark). At other times, obtaining raw data may require special hardware (e.g., sensors in the arctic). In the latter case, the committee will not be able to reproduce the acquisition of raw data, but then you can provide the committee with a protocol, including detailed procedures for system set-up, experiment set-up, and measurements.
 
@@ -118,21 +108,18 @@ The ideal reproducibility submission consists of a master script that:
 ... to produce a new PDF for the paper that contains the new graphs. It is possible!
 
 ---
-<br/><br/>
+<br/>
 ### How and When to Submit
-All authors of research papers in SIGMOD 2018 are invited to submit an entry by **August 15**!
 
-The material needed for the reproducibility will be submitted at [the CMT website](https://cmt3.research.microsoft.com/SIGMODRepro2019). The submission at the CMT should contain a PDF with at least the following information: (1) a link to download the code, data, and scripts; and (2) a step by step description on how to use the scripts for (a) code compilation, (b) data generation, and (c) repeating the paper experiments. In addition, please include a link to the the ACM digital library page for the paper and a detailed description of the hardware used. A readme template can be found [here](http://db-reproducibility.seas.harvard.edu/docs/readme.txt).
+The material needed for the reproducibility will be submitted at [the CMT website](https://cmt3.research.microsoft.com/SIGMODRepro2019). The submission at the CMT should contain a PDF with at least the following information: (1) a link to download the code, data, and scripts; and (2) a step by step description on how to use the scripts for (a) code compilation, (b) data generation, and (c) repeating the paper experiments. In addition, please include a detailed description of the hardware used. A readme template can be found [here](http://db-reproducibility.seas.harvard.edu/docs/readme.txt).
 
 ---
-<br/><br/>
+<br/>
 ### Best Practices
 A good source of dos and don’ts can be found in the [ICDE 2008 tutorial by Ioana Manolescu and Stefan Manegold](http://pages.saclay.inria.fr/ioana.manolescu/SLIDES/ManolescuManegoldICDE2008.pdf) (and a subsequent [EDBT 2009 tutorial](https://hal.archives-ouvertes.fr/file/index/docid/431423/filename/Tutorial.pdf)).
 
 They include a road-map of tips and tricks on how to organize and present code that performs experiments, so that an outsider can repeat them. In addition, the ICDE 2008 tutorial discusses good practices on experiment design more generally, addressing, for example, how to chose which parameters to vary and in what domain.
 
-A discussion about reproducibility in research including guidelines and a review of existing tools can be found in the [SIGMOD 2012 tutorial by Juliana Freire, Philippe Bonnet, and Dennis Shasha](http://dl.acm.org/citation.cfm?id=2213908).
-
 ---
-<br/><br/>
+<br/>
 ### Reproducibility Committee

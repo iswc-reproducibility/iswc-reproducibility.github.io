@@ -6,4 +6,4 @@ plugins:
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-logo: "/assets/images/logooo.png"
+logo: "/assets/images/logo_iswc.png"
