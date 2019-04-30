@@ -20,7 +20,7 @@ You will be making it easy for other researchers to compare with your work, to a
 
 Taking part in the SIGMOD Reproducibility process enables your paper to take the **ACM Results Replicated** label. This is embedded in the PDF of your paper in the ACM digital library.
 
-There is an option to also host your data, scripts and code in the ACM digital library as well to make them available to a broad audience, which will award the **ACM Artifacts Available** label.
+There is an option to also host your data, scripts and code in the ACM digital library as well to make them available to a broad audience.
 
 ##### <span style="color:#4952D8">ACM Results Replicated label</span>
 
@@ -32,20 +32,7 @@ There is an option to also host your data, scripts and code in the ACM digital l
 
 > Both the "ACM Results Replicated label" and the "ACM Artifacts Available label" are visible in the **ACM digital library**.
 
-Successful papers will be advertised at DBworld and the list of award winners will be maintained at [sigmod.org](https://sigmod.org). In addition, the official SIGMOD Reproducibility website [maintains and advertises your papers](http://db-reproducibility.seas.harvard.edu/papers), serving as a centralized location where researchers will be able to find all the experimentation material of shareable SIGMOD papers. We will continue to enhance the functionality and material on this website to make it attractive and useful for the community, so stop by often!
-
----
-<br/><br/>
-
-### ACM SIGMOD Most Reproducible Paper award
-This is a new award that recognizes the best papers in terms of reproducibility. The [three most reproducible papers](http://db-reproducibility.seas.harvard.edu/awards/) are picked every year and the awards are presented during the awards session of the SIGMOD conference (next year). Each award comes with a 750$ honorarium sponsored IBM. The criteria are as follows:
-- Replicability (ideal: all results can be verified)
-- Ease of Replicability (ideal: just works)
-- Portability (ideal: linux, mac, windows)
-- Reproducibility (ideal: can change workloads, queries, data and get similar behavior with published results)
-
-The awards are selected by the Reproducibility Awards Committee, chaired by Dennis Shasha. The committee is formed after all submissions are received so that there are no conflicts. Decisions are made based on scores that reviewers assign to each paper for all factors described above.
-
+Successful papers will be advertised at DBworld. In addition, the official SIGMOD Reproducibility website [maintains and advertises your papers](http://db-reproducibility.seas.harvard.edu/papers), serving as a centralized location where researchers will be able to find all the experimentation material of shareable SIGMOD papers. We will continue to enhance the functionality and material on this website to make it attractive and useful for the community, so stop by often!
 ---
 <br/><br/>
 
@@ -70,7 +57,7 @@ Each submitted experiment should contain: (1) A prototype system provided as a w
 The central results and claims of the paper should be supported by the submitted experiments, meaning we can recreate result data and graphs that demonstrate similar behavior with that shown in the paper. Typically when the results are about response times, the exact number will depend on the underlying hardware. We do not expect to get identical results with the paper unless it happens that we get access to identical hardware. Instead, what we expect to see is that the overall behavior matches the conclusions drown in the paper, e.g., that a given algorithm is significantly faster than another one, or that a given parameter affects negatively or positively the behavior of the system.
 
 ##### Reproducibility
-One important characteristic of strong research results is how flexible and robust they are in terms of the parameters and the tested environment. For example, testing a new algorithm for several input data distributions, workload characteristics and even hardware with diverse properties provides a complete picture of the properties of the algorithm. Of course, a single paper cannot always cover the whole space of possible scenarios. Typically, the opposite is true. For this reason, we expect authors to provide a short description as part of their submission about different experiments that one could do to test their work on top of what already exists in the paper. Ideally, the scripts provided should enable such functionality so that reviewers can test these case. This would allow reviewers to argue about how “reproducible” the results of the paper are under different conditions. Reproducibility is not mandatory for getting the ACM Replicability and Availability labels. It is though the ultimate goal of this effort and is an essential criteria for the Most Reproducible Paper Award.
+One important characteristic of strong research results is how flexible and robust they are in terms of the parameters and the tested environment. For example, testing a new algorithm for several input data distributions, workload characteristics and even hardware with diverse properties provides a complete picture of the properties of the algorithm. Of course, a single paper cannot always cover the whole space of possible scenarios. Typically, the opposite is true. For this reason, we expect authors to provide a short description as part of their submission about different experiments that one could do to test their work on top of what already exists in the paper. Ideally, the scripts provided should enable such functionality so that reviewers can test these case. This would allow reviewers to argue about how “reproducible” the results of the paper are under different conditions. Reproducibility is not mandatory for getting the ACM Replicability and Availability labels. It is though the ultimate goal of this effort.
 
 We do not expect the authors to perform any additional experiments on top of the ones in the paper. Any additional experiments submitted will be considered and tested but they are not required. As long as the flexibility report shows that there is a *reasonable* set of existing experiments, then a paper meets the flexibility criteria. What reasonable means will be judged on a case by case basis based on the topic of each paper and in practice all accepted papers in top database conferences meet this criteria. You should see the flexibility report mainly as a way to describe the design space covered by the paper and the design space which is interesting to cover in the future for further analysis that may inspire others to work on open problems triggered by your work.
 

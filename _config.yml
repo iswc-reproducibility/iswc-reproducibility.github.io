@@ -1,6 +1,9 @@
 repository: iswc-reproducibility/iswc-reproducibility.github.io
-title: SIGMOD Reproducibility Effort
-description: SIGMOD Reproducibility Effort (ISWC)
+title: ISWC-Reproducibility Initiative
+description: ISWC-Reproducibility Initiative (ISWC)
 plugins:
   - jekyll-remote-theme
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+#remote_theme: "mmistakes/jekyll-theme-basically-basic"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+logo: "/assets/images/logooo.png"
