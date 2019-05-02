@@ -1,15 +1,13 @@
 ---
-layout: posts
 title: ISWC reproducibility
 ---
 
 Welcome to the homepage of ISWC reproducibility.
 
 
+<br>
 
-
- 
-### What is ISWC Reproducibility?
+### <span style="color:#16954F">What is ISWC Reproducibility?</span>
 
 ISWC Reproducibility has the following goals:
 
@@ -18,8 +16,8 @@ ISWC Reproducibility has the following goals:
 - Highlight the impact and increase the credibility of the Semantic Web research.
 - Facilitate the dissemination of research results.
 
-So, our goal is to build a culture where sharing **results**, **code**, and **scripts** is the norm rather than an exception. 
-The challenge is to do this efficiently, which means building technical expertise on how to better research via creating repeatable and shareable research. 
+So, our goal is to build a culture where sharing **results**, **code**, and **scripts** is the norm rather than an exception.
+The challenge is to do this efficiently, which means building technical expertise on how to better research via creating repeatable and shareable research.
 
 [//]: # (The [ISWC Reproducibility committee](http://db-reproducibility.seas.harvard.edu/#Committee) is here to help you with this.)
 
@@ -28,7 +26,7 @@ The challenge is to do this efficiently, which means building technical expertis
 ---
 
 
-### Why should I be part of this?
+### <span style="color:#16954F"> Why should I be part of this? </span>
 
 You will be making it easy for other researchers to compare with your work, to adopt and extend your research. This instantly means more recognition for your work and higher impact.
 
@@ -36,8 +34,8 @@ You will be making it easy for other researchers to compare with your work, to a
 
 *The experiments (data, code, scripts) are made available to the community*
 
-Successful papers will be advertised at the conference. 
-In addition, the official ISWC Reproducibility website will maintains and advertises your papers, serving as a centralized location where researchers will be able to find all the experimentation material of shareable ISWC papers. 
+Successful papers will be advertised at the conference.
+In addition, the official ISWC Reproducibility website will maintains and advertises your papers, serving as a centralized location where researchers will be able to find all the experimentation material of shareable ISWC papers.
 We will continue to enhance the functionality and material on this website to make it attractive and useful for the community.
 
 ---
@@ -48,7 +46,7 @@ We will continue to enhance the functionality and material on this website to ma
 
 
 
-### ISWC reproducibility precursor
+### <span style="color:#16954F"> ISWC reproducibility precursor </span>
 
-The idea for this initiative came from a fulfilling experience getting the [SIGMOD reproducibility](http://db-reproducibility.seas.harvard.edu/) label. 
+The idea for this initiative came from a fulfilling experience getting the [SIGMOD reproducibility](http://db-reproducibility.seas.harvard.edu/) label.
 We are grateful to them for allowing us to reuse text from their website.
