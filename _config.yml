@@ -67,7 +67,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # false (default)
-search_full_content      : # true, false (default)
+search_full_content      : true, false (default)
 search_provider          : lunr #(default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -110,8 +110,8 @@ analytics:
 author:
   name             : "Michael Cochez and Alejandra Gonzalez-Beltran"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "."
+  location         : ""
   email            :
   links:
     - label: "Email"
@@ -184,8 +184,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -216,7 +214,7 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: splash # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting

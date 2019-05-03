@@ -1,10 +1,12 @@
 # main links
 main:
+  - title: "Best Practices"
+    url: http://localhost:4000/bestpractices
   - title: "GitHub Repository"
     url: https://github.com/iswc-reproducibility/iswc-reproducibility.github.io
   - title: "About"
     url: http://localhost:4000/about
-  - title: "Main"
+  - title: "Homepage"
     url: http://localhost:4000
   #- title: "Sample Posts"
   #  url: /year-archive/
