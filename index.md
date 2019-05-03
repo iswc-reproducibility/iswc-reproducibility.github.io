@@ -12,7 +12,7 @@ Welcome to the homepage of ISWC reproducibility.
 ISWC Reproducibility has the following goals:
 
 - Enable easy sharing of code and experimentation set-ups (take a paper and reuse it).
-- Make more code and data available.
+- Make more code and data available (openness).
 - Highlight the impact and increase the credibility of the Semantic Web research.
 - Facilitate the dissemination of research results.
 
@@ -40,9 +40,8 @@ We will continue to enhance the functionality and material on this website to ma
 
 ---
 
-
-
-
+### <span style="color:#16954F"> Submission system </span>
+The authors should provide the system code and required data on a Github repository. Moreover, a readme file describing the system and the installation process should be provided.
 
 
 
