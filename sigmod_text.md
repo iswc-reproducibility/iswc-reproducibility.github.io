@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Text from SIGMOD reproducibility
 ---
 
@@ -103,8 +102,3 @@ They include a road-map of tips and tricks on how to organize and present code t
 ---
 <br/>
 ### Reproducibility Committee
-
-
-
-
-
