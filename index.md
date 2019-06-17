@@ -1,5 +1,6 @@
 ---
 title: ISWC reproducibility
+layout: single
 ---
 
 Welcome to the homepage of ISWC reproducibility.
