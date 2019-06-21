@@ -3,14 +3,14 @@ title: ISWC reproducibility
 layout: single
 ---
 
-Welcome to the homepage of ISWC reproducibility.
+Welcome to the homepage of the ISWC reproducibility initiative.
 
 
 <br>
 
 ### <span style="color:#16954F">What is ISWC Reproducibility?</span>
 
-ISWC Reproducibility has the following goals:
+The ISWC Reproducibility Initiative has the following goals:
 
 - Enable easy sharing of code and experimentation set-ups (take a paper and reuse it).
 - Make more code and data available (openness).

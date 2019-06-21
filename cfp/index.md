@@ -55,17 +55,7 @@ Email: [iswc2019-reproducibility@inria.fr](mailto:iswc2019-reproducibility@inria
 Website: [http://repro.semanticweb.org/](http://repro.semanticweb.org/)<br/>
 Hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&src=typed_query&f=live)<br/>
 
-### Reproducibility Committee (to be completed)
+### Reproducibility Committee 
 
-* Francesco Osborne
-* Sahar Vadhati
-* Vinent Lully
-* Makx Deckers
-* Petar Ristoski
-* Prashant Khare
-* Svitlana Vakulenko
-* Armin Haller
-* Tobias Kuhn
-* Riccardo Albertoni
-* Terhi Nurmikko-Fuller
+Visit the [Reproducibility Committe](http://repro.semanticweb.org/pc/) page.
 
