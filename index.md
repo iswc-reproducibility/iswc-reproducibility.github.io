@@ -23,9 +23,10 @@ The challenge is to do this efficiently, which means building technical expertis
 
 Further resources:
 
-- [Call for Participation](http://repro.semanticweb.org/cfp/)
-- [Guidelines]()http://repro.semanticweb.org/guide/
-- [Programme Committee](http://repro.semanticweb.org/pc/)
+- [Call for Participation](/cfp/)
+- [Submission](/submission/)
+- [Guidelines](/guide/)
+- [Programme Committee](/pc/)
 
 ---
 

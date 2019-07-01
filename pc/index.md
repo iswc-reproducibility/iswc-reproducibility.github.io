@@ -1,3 +1,8 @@
+---
+title: ISWC reproducibility - PC
+layout: single
+---
+
 ### Reproducibiltiy Track Chairs
 
 [Dr. Alejandra Gonzalez-Beltran](https://agbeltran.github.io/), <br />
