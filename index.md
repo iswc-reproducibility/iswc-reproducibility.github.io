@@ -3,8 +3,7 @@ title: ISWC reproducibility
 layout: single
 ---
 
-Welcome to the homepage of the ISWC reproducibility initiative.
-
+Welcome to the homepage of the International Semantic Web Conference ([ISWC](https://iswc2019.semanticweb.org/)) **Reproducibility Initiative**.
 
 <br>
 
@@ -12,20 +11,23 @@ Welcome to the homepage of the ISWC reproducibility initiative.
 
 The ISWC Reproducibility Initiative has the following goals:
 
-- Enable easy sharing of code and experimentation set-ups (take a paper and reuse it).
-- Make more code and data available (openness).
-- Highlight the impact and increase the credibility of the Semantic Web research.
-- Facilitate the dissemination of research results.
+- to enable easy sharing of code and experimentation set-ups (take a paper and reuse it)
+- to make more code and data available (openness).
+- to highlight the impact and increase the credibility of the Semantic Web research.
+- to facilitate the dissemination of research results.
 
 So, our goal is to build a culture where sharing **results**, **code**, and **scripts** is the norm rather than an exception.
 The challenge is to do this efficiently, which means building technical expertise on how to better research via creating repeatable and shareable research.
 
 [//]: # (The [ISWC Reproducibility committee](http://db-reproducibility.seas.harvard.edu/#Committee) is here to help you with this.)
 
+Further resources:
 
+- [Call for Participation](http://repro.semanticweb.org/cfp/)
+- [Guidelines]()http://repro.semanticweb.org/guide/
+- [Programme Committee](http://repro.semanticweb.org/pc/)
 
 ---
-
 
 ### <span style="color:#16954F"> Why should I be part of this? </span>
 
@@ -41,12 +43,11 @@ We will continue to enhance the functionality and material on this website to ma
 
 ---
 
-### <span style="color:#16954F"> Submission system </span>
-The authors should provide the system code and required data on a Github repository. Moreover, a readme file describing the system and the installation process should be provided.
+### <span style="color:#16954F">Submission system </span>
+The authors should provide the system code and required data on a Github repository. Moreover, a README file describing the system and the installation process should be provided.
 
 
 
-### <span style="color:#16954F"> ISWC reproducibility precursor </span>
+### <span style="color:#16954F"> ISWC reproducibility precursor</span>
 
-The idea for this initiative came from a fulfilling experience getting the [SIGMOD reproducibility](http://db-reproducibility.seas.harvard.edu/) label.
-We are grateful to them for allowing us to reuse text from their website.
+The idea for this initiative came from a fulfilling experience getting the [SIGMOD reproducibility](http://db-reproducibility.seas.harvard.edu/) label. We are grateful to them for allowing us to reuse text from their website.
