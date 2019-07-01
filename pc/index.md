@@ -28,6 +28,7 @@ Twitter hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&
 * Tobias Kuhn
 * Vinent Lully, Université Paris-Sorbonne, France
 * Francesco Osborne, Open University, UK
+* Eric Prud'hommeaux, World Wide Web Consortium
 * Petar Ristoski, IBM
 * Sahar Vahdati, University of Bonn, Germany
 * Svitlana Vakulenko, WU Vienna, Austria
