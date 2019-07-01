@@ -1,5 +1,5 @@
 ---
-title: ISWC reproducibility
+title: Guidelines
 layout: single
 ---
 

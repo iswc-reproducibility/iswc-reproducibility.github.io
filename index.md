@@ -1,18 +1,11 @@
 ---
-title: ISWC reproducibility
+title: Welcome!
 layout: single
 ---
 
-Welcome to the homepage of the International Semantic Web Conference ([ISWC](https://iswc2019.semanticweb.org/)) **Reproducibility Initiative**.
+This is the homepage of the International Semantic Web Conference ([ISWC](https://iswc2019.semanticweb.org/)) **Reproducibility Initiative**.
 
-
-Email: [iswc2019-reproducibility@inria.fr](mailto:iswc2019-reproducibility@inria.fr)<br/>
-Website: [http://repro.semanticweb.org/](http://repro.semanticweb.org/)<br/>
-Twitter hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&src=typed_query&f=live)<br/>
-
-<br>
-
-### <span style="color:#16954F">What is ISWC Reproducibility?</span>
+### <span style="color:#16954F">What is the ISWC Reproducibility Initiative?</span>
 
 The ISWC Reproducibility Initiative has the following goals:
 
@@ -53,6 +46,13 @@ We will continue to enhance the functionality and material on this website to ma
 The authors should provide the system code and required data on a Github repository. 
 Moreover, a README file describing the system and the installation process should be provided.
 See the [submission guidelines](/submission) for details.
+
+
+### <span style="color:#16954F">Contact details</span>
+
+Email: [iswc2019-reproducibility@inria.fr](mailto:iswc2019-reproducibility@inria.fr)<br/>
+Website: [http://repro.semanticweb.org/](http://repro.semanticweb.org/)<br/>
+Twitter hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&src=typed_query&f=live)<br/>
 
 
 ### <span style="color:#16954F"> ISWC reproducibility precursor</span>

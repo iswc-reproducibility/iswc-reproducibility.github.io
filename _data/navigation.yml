@@ -10,9 +10,9 @@ main:
     url: /
   - title: "Call for Participation"
     url: /cfp/
-  #- title: "Sample Posts"
-  #  url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Submission Guidelines"
+    url: /submission/
+  - title: "Reproducibility Guidelines"
+    url: /guide/
   # - title: "Sitemap"
   #   url: /sitemap/

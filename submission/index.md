@@ -1,12 +1,11 @@
 ---
-title: ISWC reproducibility - submission
+title: Submission Guidelines
 layout: single
 ---
-# Submission Guidelines
  
 To participate in the ISWC Reproducibility Initiative we will have two phases:
  
-1. A submission via **Easychair** where we ask you to provide:
+1. A submission via **easychair** where we ask you to provide:
     * The abstract of your accepted paper
     * A link to a public github/bitbucket/gitlab repository
     * A copy of the README file from your repository, containing  information on the platform required to run your code.
