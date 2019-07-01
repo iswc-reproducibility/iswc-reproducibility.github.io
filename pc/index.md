@@ -10,7 +10,7 @@
 
 Email: [iswc2019-reproducibility@inria.fr](mailto:iswc2019-reproducibility@inria.fr)<br/>
 Website: [http://repro.semanticweb.org/](http://repro.semanticweb.org/)<br/>
-Hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&src=typed_query&f=live)<br/>
+Twitter hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&src=typed_query&f=live)<br/>
 
 ### Reproducibility Committee (to be completed)
 
@@ -27,3 +27,4 @@ Hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&src=type
 * Sahar Vahdati, University of Bonn, Germany
 * Svitlana Vakulenko, WU Vienna, Austria
 * Terhi Nurmikko-Fuller, College of Arts and Social Sciences, Australian National University, Australia
+* [Angelo Salatino]( https://salatino.org), Open University, UK

@@ -5,6 +5,11 @@ layout: single
 
 Welcome to the homepage of the International Semantic Web Conference ([ISWC](https://iswc2019.semanticweb.org/)) **Reproducibility Initiative**.
 
+
+Email: [iswc2019-reproducibility@inria.fr](mailto:iswc2019-reproducibility@inria.fr)<br/>
+Website: [http://repro.semanticweb.org/](http://repro.semanticweb.org/)<br/>
+Twitter hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&src=typed_query&f=live)<br/>
+
 <br>
 
 ### <span style="color:#16954F">What is ISWC Reproducibility?</span>
