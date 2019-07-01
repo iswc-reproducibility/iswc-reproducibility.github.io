@@ -1,5 +1,5 @@
 ---
-title: Guidelines
+title: Reproducibility Guidelines
 layout: single
 ---
 
