@@ -28,9 +28,10 @@ The challenge is to do this efficiently, which means building technical expertis
 
 Further resources:
 
-- [Call for Participation](http://repro.semanticweb.org/cfp/)
-- [Guidelines]()http://repro.semanticweb.org/guide/
-- [Programme Committee](http://repro.semanticweb.org/pc/)
+- [Call for Participation](/cfp/)
+- [Submission](/submission/)
+- [Guidelines](/guide/)
+- [Programme Committee](/pc/)
 
 ---
 
@@ -49,8 +50,9 @@ We will continue to enhance the functionality and material on this website to ma
 ---
 
 ### <span style="color:#16954F">Submission system </span>
-The authors should provide the system code and required data on a Github repository. Moreover, a README file describing the system and the installation process should be provided.
-
+The authors should provide the system code and required data on a Github repository. 
+Moreover, a README file describing the system and the installation process should be provided.
+See the [submission guidelines](/submission) for details.
 
 
 ### <span style="color:#16954F"> ISWC reproducibility precursor</span>
