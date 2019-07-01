@@ -7,6 +7,9 @@
 <loc>http://localhost:4000/bestpractices/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/cfp/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/guide/</loc>
 </url>
 <url>
@@ -14,9 +17,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/submission/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/cfp/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
