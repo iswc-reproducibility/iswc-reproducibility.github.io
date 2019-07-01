@@ -22,8 +22,8 @@ The challenge is to do this efficiently, which means building technical expertis
 Further resources:
 
 - [Call for Participation](/cfp/)
-- [Submission](/submission/)
-- [Guidelines](/guide/)
+- [Submission Guidelines](/submission/)
+- [Reproducibility Guidelines](/guide/)
 - [Programme Committee](/pc/)
 
 ---

@@ -14,5 +14,7 @@ main:
     url: /submission/
   - title: "Reproducibility Guidelines"
     url: /guide/
+  - title: "Programme Committee"
+    url: /pc/
   # - title: "Sitemap"
   #   url: /sitemap/
