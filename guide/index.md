@@ -42,5 +42,9 @@ For each graph in the paper, the authors should describe how the graph is obtain
 
 # Further resources
 
+- [The Turing Way: Guide to Reproducible Research](https://the-turing-way.netlify.com/introduction/introduction)
+
 
 # Acknowledgements
+
+The idea for this initiative came from a fulfilling experience getting the [SIGMOD reproducibility](http://db-reproducibility.seas.harvard.edu/) label. We are grateful to them for allowing us to reuse text from their website.
