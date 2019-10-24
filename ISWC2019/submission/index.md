@@ -15,6 +15,6 @@ To participate in the ISWC Reproducibility Initiative we will have two phases:
  
 2. For the interaction with the evaluators, we will create a new and private git repository. Then we will add you and the reproducer as collaborators. All  interaction between authors and reproducers must happen via this private git repository (issues, wiki, etc). The information in this repository will not be made open in the future unless authors and reproducers are willing to do so.
  
-For more information on how to make your submission reproducible, see our [reproducibility guidelines](/guide/).
+For more information on how to make your submission reproducible, see our [reproducibility guidelines](../../guide/).
 
 

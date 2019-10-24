@@ -5,7 +5,7 @@ layout: single
 
 Every research paper is different and the steps to achieve reproducibility may vary, but here we provide general guidance and links to other resources that you can consider to make your research reproducibile.
 
-In some cases, the reproducers from the [Programme Committee](/pc/) can simply re-run software (e.g. re-run some existing benchmark). In other cases, getting the raw data for an experiment may require special data sharing agreements. Then, it would be ideal if you could provide some simulated datasets to run the evaluation. 
+In some cases, the reproducers from the Programme Committee can simply re-run software (e.g. re-run some existing benchmark). In other cases, getting the raw data for an experiment may require special data sharing agreements. Then, it would be ideal if you could provide some simulated datasets to run the evaluation. 
 
 # Environment
 
@@ -45,6 +45,3 @@ For each graph in the paper, the authors should describe how the graph is obtain
 - [The Turing Way: Guide to Reproducible Research](https://the-turing-way.netlify.com/introduction/introduction)
 
 
-# Acknowledgements
-
-The idea for this initiative came from a fulfilling experience getting the [SIGMOD reproducibility](http://db-reproducibility.seas.harvard.edu/) label. We are grateful to them for allowing us to reuse text from their website.

@@ -8,13 +8,15 @@ main:
   #  url: http://localhost:4000/about
   - title: "Homepage"
     url: /
-  - title: "Call for Participation"
-    url: /cfp/
-  - title: "Submission Guidelines"
-    url: /submission/
+  - title: "ISWC 2019"
+    url: /ISWC2019/
+  - title: "ISWC2019 Call for Participation"
+    url: /ISWC2019/cfp/
+  - title: "ISWC2019 Submission Guidelines"
+    url: /ISWC2019/submission/
+  - title: "ISWC2019 Programme Committee"
+    url: /ISWC2019/pc/
   - title: "Reproducibility Guidelines"
     url: /guide/
-  - title: "Programme Committee"
-    url: /pc/
   # - title: "Sitemap"
   #   url: /sitemap/

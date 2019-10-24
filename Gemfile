@@ -5,3 +5,4 @@ gem "jekyll-remote-theme"
 gem "jekyll-theme-basically-basic"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-algolia"
+gem 'jekyll-include-cache'

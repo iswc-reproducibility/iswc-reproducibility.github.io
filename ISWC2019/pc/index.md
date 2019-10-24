@@ -23,13 +23,11 @@ Twitter hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&
 * Jonas Almeida, Stony Brook University, USA
 * Makx Deckers
 * [Daniel Garijo](http://dgarijo.com/), [Information Sciences Institute](http://isi.edu/), University of Southern California, USA
-* Armin Haller, Australia
-* Prashant Khare
-* Tobias Kuhn
+* Prashant Khare, UK
 * Vinent Lully, Université Paris-Sorbonne, France
 * Francesco Osborne, Open University, UK
-* Eric Prud'hommeaux, World Wide Web Consortium
-* Petar Ristoski, IBM
+* Eric Prud'hommeaux, World Wide Web Consortium, France
+* Petar Ristoski, IBM, USA
 * Sahar Vahdati, University of Bonn, Germany
 * Svitlana Vakulenko, WU Vienna, Austria
 * Terhi Nurmikko-Fuller, College of Arts and Social Sciences, Australian National University, Australia

@@ -1,13 +1,13 @@
 ---
-title: Welcome to the Semantic Web Reproducibility Initiative
+title: Welcome!
 layout: single
 ---
 
-This is the homepage of the Semantic Web Reproducibility Initiative.
+This is the homepage of the International Semantic Web Conference ([ISWC](https://iswc2019.semanticweb.org/)) **Reproducibility Initiative**.
 
-### <span style="color:#16954F">What is the Semantic Web Reproducibility Initiative?</span>
+### <span style="color:#16954F">What is the ISWC Reproducibility Initiative?</span>
 
-The Semantic Web Reproducibility Initiative has the following goals:
+The ISWC Reproducibility Initiative has the following goals:
 
 - to enable easy sharing of code and experimentation set-ups (take a paper and reuse it)
 - to make more code and data available (openness).
@@ -19,15 +19,12 @@ The challenge is to do this efficiently, which means building technical expertis
 
 [//]: # (The [ISWC Reproducibility committee](http://db-reproducibility.seas.harvard.edu/#Committee) is here to help you with this.)
 
+Further resources:
 
-### Conferences ###
-
-Semantic Web reproducibility has been introduced in the following conferences:
-
-
-- ISWC 2019 [reproducibility](/ISWC2019/) ([conference](https://iswc2019.semanticweb.org/))
-- ESWC 2020 (in preparation)
-
+- [Call for Participation](cfp/)
+- [Submission Guidelines](submission/)
+- [Reproducibility Guidelines](../guide/)
+- [Programme Committee](pc/)
 
 ---
 
@@ -39,27 +36,25 @@ You will be making it easy for other researchers to compare with your work, to a
 
 *The experiments (data, code, scripts) are made available to the community*
 
-When possible, successful papers will be advertised at the conference.
-In addition, this website will maintain and advertise your papers, serving as a centralized location where researchers will be able to find all the experimentation material of shareable semantic web papers.
+Successful papers will be advertised at the conference.
+In addition, the official ISWC Reproducibility website will maintains and advertises your papers, serving as a centralized location where researchers will be able to find all the experimentation material of shareable ISWC papers.
 We will continue to enhance the functionality and material on this website to make it attractive and useful for the community.
 
 ---
 
+### <span style="color:#16954F">Submission system </span>
+The authors should provide the system code and required data on a Github repository. 
+Moreover, a README file describing the system and the installation process should be provided.
+See the [submission guidelines](submission/) for details.
 
 
 ### <span style="color:#16954F">Contact details</span>
 
-This webpage is maintained by <br />
+Email: [iswc2019-reproducibility@inria.fr](mailto:iswc2019-reproducibility@inria.fr)<br/>
+Website: [http://repro.semanticweb.org/](http://repro.semanticweb.org/)<br/>
+Twitter hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&src=typed_query&f=live)<br/>
 
-[Dr. Alejandra Gonzalez-Beltran](https://agbeltran.github.io/), <br />
-[Science and Technology Facilities Council, United Kingdom](https://stfc.ukri.org/)<br />
-<br/>
-and <br />
 
-[Dr. Michael Cochez](http://users.jyu.fi/~miselico/),<br /> 
-[VU Amsterdam, the Netherlands](http://krr.cs.vu.nl)<br />
-<br/>
-
-### <span style="color:#16954F"> semantic Web Reproducibility precursor</span>
+### <span style="color:#16954F"> ISWC reproducibility precursor</span>
 
 The idea for this initiative came from a fulfilling experience getting the [SIGMOD reproducibility](http://db-reproducibility.seas.harvard.edu/) label. We are grateful to them for allowing us to reuse text from their website.

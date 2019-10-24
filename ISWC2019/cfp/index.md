@@ -49,7 +49,7 @@ Results Announcement During ISWC: October 26-30, 2019
 <br/>
 
 [Dr. Michael Cochez](http://users.jyu.fi/~miselico/),<br /> 
-[Fraunhofer FIT, Germany](https://www.fit.fraunhofer.de/)<br />
+[VU Amsterdam, the Netherlands](http://users.jyu.fi/~miselico)<br />
 <br/>
 Email: [iswc2019-reproducibility@inria.fr](mailto:iswc2019-reproducibility@inria.fr)<br/>
 Website: [http://repro.semanticweb.org/](http://repro.semanticweb.org/)<br/>
@@ -57,5 +57,5 @@ Hashtag: [#iswc2019repro](https://twitter.com/search?q=%23iswc2019repro&src=type
 
 ### Reproducibility Committee 
 
-Visit the [Reproducibility Committe](http://repro.semanticweb.org/pc/) page.
+Visit the [Reproducibility Committe](../pc/) page.
 
