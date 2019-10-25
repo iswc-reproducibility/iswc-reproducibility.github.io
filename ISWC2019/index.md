@@ -19,6 +19,16 @@ The challenge is to do this efficiently, which means building technical expertis
 
 [//]: # (The [ISWC Reproducibility committee](http://db-reproducibility.seas.harvard.edu/#Committee) is here to help you with this.)
 
+**The reproducibility initiative at ISWC2019 is sponsored by the Elsevier AI Lab - Amsterdam, part of ICAI**
+
+
+{:refdef: style="text-align: center;"}
+[![Elsevier logo](assets/elsevier.png)](https://www.elsevier.com/)
+[![ICAI logo](assets/ICAI-wit-horizontaal.jpg)](https://icai.ai/)
+{: refdef}
+
+
+
 Further resources:
 
 - [Call for Participation](cfp/)
