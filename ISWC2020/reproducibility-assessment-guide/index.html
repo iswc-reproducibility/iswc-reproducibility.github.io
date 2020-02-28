@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Reproducibility Guidelines - Semantic Web Reproducibility Initiative</title>
+<!-- begin _includes/seo.html --><title>Reproducibility Line of Assessment - Semantic Web Reproducibility Initiative</title>
 <meta name="description" content="ISWC-Reproducibility Initiative (ISWC)">
 
 
@@ -17,8 +17,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Semantic Web Reproducibility Initiative">
-<meta property="og:title" content="Reproducibility Guidelines">
-<meta property="og:url" content="http://localhost:4000/guide/">
+<meta property="og:title" content="Reproducibility Line of Assessment">
+<meta property="og:url" content="http://localhost:4000/ISWC2020/reproducibility-assessment-guide/">
 
 
 
@@ -36,7 +36,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/guide/">
+<link rel="canonical" href="http://localhost:4000/ISWC2020/reproducibility-assessment-guide/">
 
 
 
@@ -152,7 +152,7 @@
   
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Reproducibility Guidelines">
+    <meta itemprop="headline" content="Reproducibility Line of Assessment">
     
     
     
@@ -160,7 +160,7 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Reproducibility Guidelines
+          <h1 id="page-title" class="page__title" itemprop="headline">Reproducibility Line of Assessment
 </h1>
           
         </header>
@@ -178,17 +178,26 @@
 
 <h1 id="system">System</h1>
 
-<p>System setup is one of the most challenging aspects when repeating experiments. System setup will be easier to conduct if it is automatic rather than manual. Authors should test that the system they distribute can actually be installed in a new environment. The documentation should detail every step in system setup:</p>
+<p>System setup is one of the most challenging aspects when repeating experiments. System setup will be easier to conduct if it is automatic rather than manual. Authors should test that the system they distribute can actually be installed in a new environment. The documentation should detail every step in system setup (even if a step is performed in an automatic manner provide relevant info in case changes need to be done):</p>
 
 <ul>
   <li>How to obtain the system?</li>
   <li>How to configure the environment if need be (e.g., environment variables, paths)?</li>
-  <li>How to compile the system? (existing compilation options should be mentioned)</li>
-  <li>How to use the system? (What are the configuration options and parameters to the system?)</li>
+  <li>How to compile the system? (existing compilation options should be mentioned and why they are needed)</li>
+  <li>How to use the system? (What are the configuration options and parameters to the system and where to set them?)</li>
   <li>How to make sure that the system is installed correctly?</li>
 </ul>
 
-<p>The above tasks should be achieved by executing a set o scripts provided by the authors that will download needed components (systems, libraries), initialize the environment, check that software and hardware is compatible, and deploy the system.</p>
+<p><strong>The following are mandatory for submissions which aim at software reproducibility, and not at experiments reproducibility; However, submissions aiming at experiments reproducibility should still supply relevant tests but not necessary in such detail</strong></p>
+
+<p>Include tests at different levels - for all levels input and output samples need to be provided. Document the tests and how to run them as well as provide relevant scripts and resources to set up the test environment: (modified from <a href="https://the-turing-way.netlify.com/introduction/introduction">The Turing Way: Guide to Reproducible Research</a> )</p>
+<ul>
+  <li>Unit testing - all individual or, at the very least those with key functionalities, software components/units are tested separately to ensure they are functioning as per design;</li>
+  <li>Integration tests - several components are tested together to ensure proper interaction between them;</li>
+  <li>System tests - the entire system is tested as a whole to ensure that it functions properly and produces the correct output from a given input. Include common and important cases as well as corner cases.</li>
+</ul>
+
+<p><strong>Both software and experiments reproducibility:</strong> The above tasks should be achieved by executing a set of scripts provided by the authors that will download needed components (systems, libraries), initialize the environment, check that software and hardware is compatible, and deploy the system.</p>
 
 <h1 id="experiments">Experiments</h1>
 
@@ -212,7 +221,6 @@
 <ul>
   <li><a href="https://the-turing-way.netlify.com/introduction/introduction">The Turing Way: Guide to Reproducible Research</a></li>
 </ul>
-
 
         
       </section>
