@@ -1,5 +1,5 @@
 ---
-title: ISWC 2020 Reproducibility Track Program Committee
+title: ISWC 2020 Reproducibility Track Programme Committee
 layout: single
 ---
 
