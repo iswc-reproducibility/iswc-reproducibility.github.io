@@ -6,17 +6,28 @@ main:
   #  url: https://github.com/iswc-reproducibility/iswc-reproducibility.github.io
   #- title: "About"
   #  url: http://localhost:4000/about
-  - title: "Homepage"
-    url: /
-  - title: "ISWC 2019"
-    url: /ISWC2019/
-  - title: "ISWC2019 Call for Participation"
-    url: /ISWC2019/cfp/
-  - title: "ISWC2019 Submission Guidelines"
-    url: /ISWC2019/submission/
-  - title: "ISWC2019 Programme Committee"
-    url: /ISWC2019/pc/
-  - title: "Reproducibility Guidelines"
-    url: /guide/
+- title: "Homepage"
+  url: /
+- title: "ISWC 2019"
+  url: /ISWC2019/
+  subfolderitems:
+    - page: "ISWC2019 Call for Participation"
+      url: /ISWC2019/cfp/
+    - page: "ISWC2019 Submission Guidelines"
+      url: /ISWC2019/submission/
+    - page: "ISWC2019 Programme Committee"
+      url: /ISWC2019/pc/
+    - page: "Reproducibility Guidelines"
+      url: /guide/
+- title: "ISWC 2020"
+  url: /ISWC2020/
+- title: "ISWC2020 Reproducibility Line of Assessment"
+  url: /ISWC2020/reproducibility-assessment-guide/
+- title: "ISWC2020 Replicability Line of Assessment"
+  url: /ISWC2020/replicability-assessment-guide/        
+- title: "ISWC2020 Submission Guidelines"
+  url: /ISWC2020/submission-guide/
+- title: "ISWC2020 Programme Committee"
+  url: /ISWC2020/pc/        
   # - title: "Sitemap"
   #   url: /sitemap/
