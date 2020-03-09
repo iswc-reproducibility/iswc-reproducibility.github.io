@@ -27,6 +27,7 @@ Semantic Web reproducibility has been introduced in the following conferences:
 
 - ISWC 2019 [reproducibility](/ISWC2019/) ([conference](https://iswc2019.semanticweb.org/))
 - ESWC 2020 (in preparation)
+- ISWC 2020 [call for participation](/ISWC2020/) 
 
 
 ---
