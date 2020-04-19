@@ -49,9 +49,9 @@ Please follow the [submission guidelines](./submission-guide).
 
 ### Important Dates:
 
-Submission Deadline: July 10, 2020<br />
-Assessment Period: 17 July - 17 September<br />
-Results Announcement (During ISWC 2020): Nov 2-6, 2020
+Submission Deadline: August 19, 2020<br />
+Assessment Period: August 26 - October 16, 2020<br />
+Results Announcement (During ISWC 2020): November 2-6, 2020
 
 
 ### Reproducibility Track Chairs:<br />
